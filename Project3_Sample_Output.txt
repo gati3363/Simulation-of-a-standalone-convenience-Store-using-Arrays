@@ -1,0 +1,186 @@
+Welcome to CS 140 Store Express Line
+This line serves customers with 5 or fewer items
+------------------------------------------------
+
+	1. Buy an item
+	2. Modify the quantity of an item
+	3. Show the items purchased so far
+	4. Done
+
+Your choice: 
+1
+Enter the product name: Walnuts
+Enter the price: 9.99
+How many of Walnuts did you buy? Please enter the quantity: 2
+	1. Buy an item
+	2. Modify the quantity of an item
+	3. Show the items purchased so far
+	4. Done
+
+Your choice: 
+1
+Enter the product name: 1% Milk
+Enter the price: 1.99
+How many of 1% Milk did you buy? Please enter the quantity: 2
+	1. Buy an item
+	2. Modify the quantity of an item
+	3. Show the items purchased so far
+	4. Done
+
+Your choice: 
+3
+Product: Walnuts	Price: $9.99	Quantity: 2
+Product: 1% Milk	Price: $1.99	Quantity: 2
+		Running Total: $23.96
+	1. Buy an item
+	2. Modify the quantity of an item
+	3. Show the items purchased so far
+	4. Done
+
+Your choice: 
+2
+Enter the name of the product
+WALNUTS
+Enter the new quantity: 
+3
+	1. Buy an item
+	2. Modify the quantity of an item
+	3. Show the items purchased so far
+	4. Done
+
+Your choice: 
+3
+Product: Walnuts	Price: $9.99	Quantity: 3
+Product: 1% Milk	Price: $1.99	Quantity: 2
+		Running Total: $33.95
+	1. Buy an item
+	2. Modify the quantity of an item
+	3. Show the items purchased so far
+	4. Done
+
+Your choice: 
+1
+Enter the product name: Oats Cereal
+Enter the price: 3.49
+How many of Oats Cereal did you buy? Please enter the quantity: 2
+	1. Buy an item
+	2. Modify the quantity of an item
+	3. Show the items purchased so far
+	4. Done
+
+Your choice: 
+3
+Product: Walnuts	Price: $9.99	Quantity: 3
+Product: 1% Milk	Price: $1.99	Quantity: 2
+Product: Oats Cereal	Price: $3.49	Quantity: 2
+		Running Total: $40.93
+	1. Buy an item
+	2. Modify the quantity of an item
+	3. Show the items purchased so far
+	4. Done
+
+Your choice: 
+2
+Enter the name of the product
+OATS CEREAL
+Enter the new quantity: 
+0
+	1. Buy an item
+	2. Modify the quantity of an item
+	3. Show the items purchased so far
+	4. Done
+
+Your choice: 
+3
+Product: Walnuts	Price: $9.99	Quantity: 3
+Product: 1% Milk	Price: $1.99	Quantity: 2
+		Running Total: $33.95
+	1. Buy an item
+	2. Modify the quantity of an item
+	3. Show the items purchased so far
+	4. Done
+
+Your choice: 
+1
+Enter the product name: Soy Milk
+Enter the price: 2.99
+How many of Soy Milk did you buy? Please enter the quantity: 3
+	1. Buy an item
+	2. Modify the quantity of an item
+	3. Show the items purchased so far
+	4. Done
+
+Your choice: 
+1
+Enter the product name: Oat Bread
+Enter the price: 4.29
+How many of Oat Bread did you buy? Please enter the quantity: 1
+	1. Buy an item
+	2. Modify the quantity of an item
+	3. Show the items purchased so far
+	4. Done
+
+Your choice: 
+3
+Product: Walnuts	Price: $9.99	Quantity: 3
+Product: 1% Milk	Price: $1.99	Quantity: 2
+Product: Soy Milk	Price: $2.99	Quantity: 3
+Product: Oat Bread	Price: $4.29	Quantity: 1
+		Running Total: $47.21
+	1. Buy an item
+	2. Modify the quantity of an item
+	3. Show the items purchased so far
+	4. Done
+
+Your choice: 
+1
+Enter the product name: Bananas
+Enter the price: 1.99
+How many of Bananas did you buy? Please enter the quantity: 2
+	1. Buy an item
+	2. Modify the quantity of an item
+	3. Show the items purchased so far
+	4. Done
+
+Your choice: 
+3
+Product: Walnuts	Price: $9.99	Quantity: 3
+Product: 1% Milk	Price: $1.99	Quantity: 2
+Product: Soy Milk	Price: $2.99	Quantity: 3
+Product: Oat Bread	Price: $4.29	Quantity: 1
+Product: Bananas	Price: $1.99	Quantity: 2
+		Running Total: $51.19
+	1. Buy an item
+	2. Modify the quantity of an item
+	3. Show the items purchased so far
+	4. Done
+
+Your choice: 
+1
+This line is customers for <= 5 items only
+	1. Buy an item
+	2. Modify the quantity of an item
+	3. Show the items purchased so far
+	4. Done
+
+Your choice: 
+4
+Thanks for using CS 140 store
+Here is your invoice information
+--------------------------------
+Product: Walnuts	Price: $9.99	Quantity: 3
+Product: 1% Milk	Price: $1.99	Quantity: 2
+Product: Soy Milk	Price: $2.99	Quantity: 3
+Product: Oat Bread	Price: $4.29	Quantity: 1
+Product: Bananas	Price: $1.99	Quantity: 2
+		Running Total: $51.19
+
+Please come back again.  Have a nice day!
+
+
+
+
+
+
+
+
