@@ -22,8 +22,8 @@ import java.util.*;     // for Locale
 /**
  * Represents a Product with a name, price.
  *
- * @author CS 140 Instructors
- * @version 1
+ * @author Pratik Patel
+ * @Version Project 3 04/05/2014
  */
 public class Product   {
     private String name;

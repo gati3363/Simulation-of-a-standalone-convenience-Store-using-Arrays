@@ -1,13 +1,13 @@
 import java.util.Scanner;
-import java.text.*;      // for the NumberFormat
+import java.text.*;      
 import java.util.*;
 
 /**
  * In this project, we simulate a small stand-alone
  * convenience store operation.
  *
- * @author CS 140 Instructors
- * @version April 2014
+ * @author Pratik Patel
+ * @version Project 3 04/05/2014
  */
 
 public class Cashier   {
