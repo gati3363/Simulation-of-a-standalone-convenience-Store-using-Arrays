@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LineItem()
+comment1.params=product\ quantity
+comment1.target=LineItem(Product,\ int)
+comment1.text=\r\n\ Constructor\ -\ constructs\ which\ construct\ a\ new\ LineItem\r\n\ \r\n\ @param\ Product\ --\ Product\ for\ this\ line\ intem\r\n\ @param\ quantity\ --\ quantity\ of\ this\ product\r\n
+comment2.params=
+comment2.target=double\ getAmount()
+comment2.text=\r\n\ Returns\ the\ cusomter's\ amount\ for\ this\ line\ item.\r\n\ \r\n\ @return\ Returns\ the\ amount\ owed\ by\ the\ customer.\ \r\n
+comment3.params=
+comment3.target=Product\ getProduct()
+comment3.text=\r\n\ Gets\ the\ Product\ of\ this\ line\ item.\r\n\ \r\n\ @return\ Returns\ the\ Product\ of\ this\ line\ item.\r\n
+comment4.params=
+comment4.target=int\ getQuantity()
+comment4.text=\r\n\ Gets\ the\ quantity\ for\ this\ line\ item.\r\n\ \r\n\ @return\ Returns\ the\ quantity\ for\ this\ line\ item.\r\n
+comment5.params=quantity
+comment5.target=void\ setQuantity(int)
+comment5.text=\r\n\ Sets\ the\ quantity\ for\ this\ line\ item.\r\n\ \r\n\ @param\ Sets\ the\ new\ quantity\ for\ this\ line\ item.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Returns\ a\ string\ of\ this\ line\ item.\r\n\ \r\n\ @overrides\ toString\ in\ Object\r\n\ \r\n\ @return\ Returns\ a\ String\ representation\ of\ this\ line\ item.\r\n
+numComments=7

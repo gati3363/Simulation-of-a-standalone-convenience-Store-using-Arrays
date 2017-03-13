@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=name\ price
+comment0.target=Product(java.lang.String,\ double)
+comment0.text=\r\n\ Creates\ a\ Product.\r\n\r\n\ @param\ name\ the\ name\ for\ this\ product.\r\n\ @param\ price\ the\ price\ of\ this\ product.\r\n
+comment1.params=name
+comment1.target=void\ setName(java.lang.String)
+comment1.text=\r\n\ Sets\ the\ name\ for\ this\ product.\r\n\r\n\ @param\ name\ the\ name\ of\ this\ product.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Returns\ the\ name\ of\ this\ product.\r\n\r\n\ @return\ the\ name\ of\ this\ product.\r\n
+comment3.params=price
+comment3.target=void\ setPrice(double)
+comment3.text=\r\n\ Sets\ the\ price\ for\ this\ product.\r\n\r\n\ @param\ price\ the\ price\ for\ this\ product.\r\n
+comment4.params=
+comment4.target=double\ getPrice()
+comment4.text=\r\n\ Returns\ the\ price\ for\ this\ product.\r\n\r\n\ @return\ the\ price\ for\ this\ product.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Returns\ a\ printable\ representation\ of\ a\ Product\r\n\r\n\ @return\ a\ printable\ representation\ of\ a\ Product\r\n
+numComments=6

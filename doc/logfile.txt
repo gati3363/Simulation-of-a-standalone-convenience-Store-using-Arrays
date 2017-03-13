@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\Java\jdk1.7.0_45\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\cs140\project3\Project3Code
+-d
+C:\cs140\project3\Project3Code\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\cs140\project3\Project3Code\Invoice.java
+<---- end of javadoc command ---->
+Loading source file C:\cs140\project3\Project3Code\Invoice.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_45
+Building tree for all the packages and classes...
+Generating C:\cs140\project3\Project3Code\doc\Invoice.html...
+C:\cs140\project3\Project3Code\Invoice.java:33: warning - @returns is an unknown tag.
+C:\cs140\project3\Project3Code\Invoice.java:43: warning - @returns is an unknown tag.
+Generating C:\cs140\project3\Project3Code\doc\package-frame.html...
+Generating C:\cs140\project3\Project3Code\doc\package-summary.html...
+Generating C:\cs140\project3\Project3Code\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\cs140\project3\Project3Code\doc\allclasses-frame.html...
+Generating C:\cs140\project3\Project3Code\doc\allclasses-noframe.html...
+Generating C:\cs140\project3\Project3Code\doc\index.html...
+Generating C:\cs140\project3\Project3Code\doc\stylesheet.css...
+2 warnings

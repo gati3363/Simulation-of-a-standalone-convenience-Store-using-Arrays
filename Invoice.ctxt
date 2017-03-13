@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=anItem
+comment0.target=void\ addToInvoice(LineItem)
+comment0.text=\r\n\ Adds\ a\ line\ item\ to\ this\ invoice.\r\n\ \r\n\ @param\ anItem\ -\ Line\ Item\ added\ to\ the\ invoice.\r\n
+comment1.params=
+comment1.target=int\ getNumItems()
+comment1.text=\r\n\ Returns\ the\ number\ of\ line\ items\ in\ this\ invoice\r\n\ \r\n\ @returns\ the\ number\ of\ LineItems\ in\ this\ invoice\r\n
+comment2.params=
+comment2.target=double\ getRunningTotal()
+comment2.text=\r\n\ Returns\ the\ current\ running\ total.\r\n\ \r\n\ @returns\ the\ current\ amount\ owed\ by\ the\ customer.\r\n
+comment3.params=name\ quantity
+comment3.target=void\ update(java.lang.String,\ int)
+comment3.text=\r\n\ This\ method\ Updates\ the\ quantity\ for\ a\ line\ item.\r\n\ \r\n\ @param\ name\ -\ Name\ of\ the\ product\r\n\ @param\ quantity\ -\ quantity\r\n
+comment4.params=index
+comment4.target=void\ removeFromInvoice(int)
+comment4.text=\r\n\ Removes\ the\ previously\ added\ product.\r\n\r\n
+comment5.params=
+comment5.target=void\ print()
+comment5.text=\r\n\ Prints\ invoice\ to\ the\ screen\ using\ the\ toString\ met.\r\n
+numComments=6
